@@ -14,7 +14,7 @@
     "themesberg"
   ],
   "license": "MIT",
-  "homepage": "https:software-engineer-arc.github.io/",
+  "homepage": "https://arturo-velazquez-vargas.github.io/arturo-velazquez-vargas.github.io",
   "bugs": {
     "url": "https://github.com/themesberg/volt-react-dashboard/issues"
   },
@@ -57,7 +57,6 @@
     "eslint-plugin-react": "^7.31.11",
     "formik": "^2.2.9",
     "framer-motion": "^6.3.3",
-    "gh-pages": "^4.0.0",
     "labeled-checkbox-material-ui": "^2.8.0",
     "lodash": "^4.17.21",
     "marked": "^4.2.2",
@@ -106,7 +105,6 @@
     "build-local": "PUBLIC_URL=./ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public"
   },
@@ -146,6 +144,7 @@
     "@storybook/node-logger": "^6.5.13",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.5.13",
-    "@storybook/testing-library": "^0.0.13"
+    "@storybook/testing-library": "^0.0.13",
+    "gh-pages": "^4.0.0"
   }
 }
